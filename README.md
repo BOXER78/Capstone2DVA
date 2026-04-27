@@ -287,10 +287,4 @@ _Declaration: We confirm that the above contribution details are accurate and ve
 
 ---
 
-## Academic Integrity
-
-All analysis, code, and recommendations in this repository must be the original work of the team listed above. Free-riding is tracked via GitHub Insights and pull request history. Any mismatch between the contribution matrix and actual commit history may result in individual grade adjustments.
-
----
-
 *Newton School of Technology - Data Visualization & Analytics | Capstone 2*
